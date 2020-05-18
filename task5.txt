@@ -1,0 +1,9 @@
+Breakfast dureaza 2 h (178) minute
+Toileting dureaza 2 h (140) minute
+Grooming dureaza 2 h (160) minute
+Sleeping dureaza 131 h (7863) minute
+Leaving dureaza 27 h (1664) minute
+Spare_Time/TV dureaza 142 h (8548) minute
+Showering dureaza 1 h (94) minute
+Snack dureaza 0 h (6) minute
+Lunch dureaza 5 h (313) minute

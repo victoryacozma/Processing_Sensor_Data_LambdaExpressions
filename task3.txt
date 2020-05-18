@@ -1,0 +1,9 @@
+14 aparitii pentru activitatea Breakfast
+44 aparitii pentru activitatea Toileting
+51 aparitii pentru activitatea Grooming
+14 aparitii pentru activitatea Sleeping
+14 aparitii pentru activitatea Leaving
+77 aparitii pentru activitatea Spare_Time/TV
+14 aparitii pentru activitatea Showering
+11 aparitii pentru activitatea Snack
+9 aparitii pentru activitatea Lunch
