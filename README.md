@@ -10,3 +10,7 @@ entries in the log Activities.txt.
 The program uses functional programming in Java with lambda expressions and stream
 processing to perform the tasks listed in the table below. The results of each task are written
 in a separate .txt file.
+
+![](tasks.png)
+
+The results can be viewed in the .txt files
